@@ -1,4 +1,4 @@
-# <img src="https://cdn3.emoji.gg/emojis/167678-bhacker.gif" width="30"> Socials:
+# <img src="https://cdn3.emoji.gg/emojis/167678-bhacker.gif" width="25"> Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisisaayush__)
 
