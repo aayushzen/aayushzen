@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisisaayush__)
 
 <p align="center">
-  <img src="4f0c98002b394103ad3af5e7a1ca2b7d.gif" width="600">
+  <img src="4f0c98002b394103ad3af5e7a1ca2b7d.gif" width="2100">
 </p>
 
 # 💻 Tech Stack:
