@@ -14,7 +14,9 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushzen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushzen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
 
 <h2>🐍 My GitHub Contribution Snake</h2>
 
