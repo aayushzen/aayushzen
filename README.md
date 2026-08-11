@@ -13,7 +13,7 @@
 ![](https://streak-stats.demolab.com/?user=aayushzen&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayushzen&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## <img src="https://cdn3.emoji.gg/emojis/210963-bluepresent.gif" width="35"> TROPHY <img src="https://cdn3.emoji.gg/emojis/210963-bluepresent.gif" width="35">
 
 <p align="center">
   <img src="https://trophy.benkou.dev/?username=aayushzen&theme=discord&no-frame=true&no-bg=true&margin-w=6" />
