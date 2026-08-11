@@ -1,4 +1,4 @@
-## 🌐 Socials:
+.## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisisaayush__)
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushzen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aayushzen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
 <h2>🐍 My GitHub Contribution Snake</h2>
