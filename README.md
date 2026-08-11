@@ -15,7 +15,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=aayushzen&theme=tokyonight">
+  <img src="https://trophy.benkou.dev/?username=aayushzen" />
+</p>
 
 <h2>🐍 My GitHub Contribution Snake</h2>
 
