@@ -15,8 +15,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aayushzen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-</p>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=aayushzen&theme=tokyonight">
 
 <h2>🐍 My GitHub Contribution Snake</h2>
 
