@@ -8,8 +8,11 @@
 ![](https://streak-stats.demolab.com/?user=aayushzen&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayushzen&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayushzen&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<h2>🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayushzen/aayushzen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
