@@ -6,7 +6,7 @@
   <img src="4f0c98002b394103ad3af5e7a1ca2b7d.gif" width="2100">
 </p>
 
-# 💻 Tech Stack:
+# <img src="https://cdn3.emoji.gg/emojis/45218-kittylaptop.gif" width="35"> TECH STACK <img src="https://cdn3.emoji.gg/emojis/45218-kittylaptop.gif" width="35">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aayushzen&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
