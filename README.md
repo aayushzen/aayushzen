@@ -11,3 +11,21 @@ https://cdn3.emoji.gg/emojis/45218-kittylaptop.gifhttps://img.shields.io/badge/j
 
 
 [![Discord](https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thisisaayush__)
+
+[![Discord](https://img.shields.io/badge/-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thisisaayush__)
+
+[![Discord](https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JFuarzs5Fz) [![Instagram](https://img.shields.io/badge/-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thisisaayush__)
+
+<a href="https://discord.gg/JFuarzs5Fz">
+  <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45" style="border-radius:12px;">
+</a>
+<a href="https://instagram.com/thisisaayush__">
+  <img src="https://img.shields.io/badge/-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="45" style="border-radius:12px;">
+</a>
+
+<a href="https://discord.gg/JFuarzs5Fz">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50" style="border-radius:15px;">
+</a>
+<a href="https://instagram.com/thisisaayush__">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="50" style="border-radius:15px;">
+</a>
