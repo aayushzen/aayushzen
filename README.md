@@ -16,3 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="65" height="65" alt="Vercel">
 # DESIGNING
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="65" height="65" alt="Canva">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C6FF&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
