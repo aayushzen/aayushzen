@@ -53,6 +53,14 @@
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=aayushzen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=005DFF&icon_color=005DFF&text_color=FFFFFF&border_radius=15" width="49%" height="180">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aayushzen&layout=compact&hide_border=true&bg_color=0D1117&title_color=005DFF&text_color=FFFFFF&border_radius=15" width="49%" height="180">
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBD59,100:FF9F1C&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
