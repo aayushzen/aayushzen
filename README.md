@@ -9,13 +9,16 @@
   <img src="aayush.png" width="2100">
 </p>
 
+# TeCH STaCk
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65" alt="Python">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width="65" height="65" alt="Replit">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="65" height="65" alt="Vercel">
-# DESIGNING
+
+# DeSIGnInG
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="65" height="65" alt="Canva">
+
 
 <div align="center">
 
