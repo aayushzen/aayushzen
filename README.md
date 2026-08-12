@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=aayushzen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=005DFF&icon_color=005DFF&text_color=FFFFFF&border_radius=15" width="400">
+<img src="https://github-stats-extended.vercel.app/api?username=aayushzen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=005DFF&icon_color=005DFF&text_color=FFFFFF&border_radius=15" width="49%" height="180">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aayushzen&layout=compact&hide_border=true&bg_color=0D1117&title_color=005DFF&text_color=FFFFFF&border_radius=15" width="400">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aayushzen&layout=compact&hide_border=true&bg_color=0D1117&title_color=005DFF&text_color=FFFFFF&border_radius=15" width="49%" height="180">
 
 </div>
 
