@@ -8,7 +8,7 @@
   <img src="aayush.png" width="2100">
 </p>
 
-## About Me
+## A B O U T   M E
 ```yaml
 name: Aayush
 role: Python Learner & AI-Assisted Web Creator
