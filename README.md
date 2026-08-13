@@ -8,6 +8,32 @@
   <img src="aayush.png" width="2100">
 </p>
 
+```yaml
+name: Aayush
+role: Python Learner & AI-Assisted Web Creator
+
+skills:
+  learning: [Python]
+  working_with: [HTML, CSS, JavaScript]
+  tools: [Git, GitHub, VS Code, Vercel]
+  design: [Canva]
+  ai: [AI-Assisted Development]
+
+interests:
+  - Web Development
+  - Python
+  - Artificial Intelligence Tools
+  - Open Source
+
+currently:
+  - Learning Python
+  - Building projects with AI assistance
+  - Exploring how AI can improve the way I build
+  - Exploring Open Source
+
+goal: Keep learning, build useful things & grow with AI 🚀
+```
+
 # T E C H    S T A C K
 <table>
 <tr>
