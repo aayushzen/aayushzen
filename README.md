@@ -60,8 +60,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBD59,100:FF9F1C&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
